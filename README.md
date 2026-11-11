@@ -2,8 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Daniel levi, tenho 16 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonado por tecnologia  onde ensino a criar projetos web,
-
+Me chamo Daniel levi, tenho 16 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonado por tecnologia
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
         <img 
